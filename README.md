@@ -19,7 +19,7 @@ You need to download or clone this repo using link below:
 
 Then navigate to folder `cd crypto-messaging` and
 
-`composer install` and `npm install`
+`composer install` and `php artisan key:generate`
 
 and change `.env.example` to `.env`
 
