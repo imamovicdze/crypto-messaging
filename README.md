@@ -15,9 +15,9 @@ Exchange of encrypted messages
 
 You need to download or clone this repo using link below:
 
-`git clone https://github.com/imamovicdze/cryptography-keys-exchange.git`
+`git clone https://github.com/imamovicdze/crypto-messaging.git`
 
-Then navigate to folder `cd cryptography-keys-exchange` and
+Then navigate to folder `cd crypto-messaging` and
 
 `composer install` and `npm install`
 
