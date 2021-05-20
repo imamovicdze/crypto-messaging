@@ -6,7 +6,7 @@
             <h1 id="timeline">Encription Asymmetric Anonymous</h1>
         </div>
         <ul class="timeline">
-            <li class="timeline-inverted">
+            <li>
                 <div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
@@ -18,7 +18,7 @@
                     </div>
                 </div>
             </li>
-            <li>
+            <li class="timeline-inverted">
                 <div class="timeline-badge warning"><i class="glyphicon glyphicon-credit-card"></i></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
@@ -29,7 +29,7 @@
                     </div>
                 </div>
             </li>
-            <li>
+            <li class="timeline-inverted">
                 <div class="timeline-panel">
                     <div class="timeline-heading">
                         <h4 class="timeline-title">Secret Key</h4>
@@ -39,7 +39,7 @@
                     </div>
                 </div>
             </li>
-            <li class="timeline-inverted">
+            <li>
                 <div class="timeline-badge info"><i class="glyphicon glyphicon-floppy-disk"></i></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
@@ -51,7 +51,7 @@
                     </div>
                 </div>
             </li>
-            <li>
+            <li class="timeline-inverted">
                 <div class="timeline-badge success"><i class="glyphicon glyphicon-thumbs-up"></i></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
